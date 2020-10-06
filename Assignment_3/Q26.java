@@ -2,7 +2,8 @@
 /*26.	Create an array of 17 elements in 5 rows.  And calculate sum of all elements. */
 import java.util.*;
 
-public class Sum_17Elements{
+public class Q26
+{
 
 	public static void main(String args[]) {
 
