@@ -46,7 +46,7 @@ class Emp extends Person{
 	}
 }
 
-public class Constructor_Chaining{
+public class Q47{
 	
 	public static void main(String args[]) {
 		
