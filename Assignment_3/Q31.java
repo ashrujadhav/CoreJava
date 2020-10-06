@@ -18,7 +18,7 @@ class Q31{
 	}
 }
 
-public class StdData{
+public class Q31{
 
 	public static void main(String args[]) {
 
