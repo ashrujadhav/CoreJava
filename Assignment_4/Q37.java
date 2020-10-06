@@ -27,7 +27,7 @@ class Person{
 	}
 }
 
-public class PersonDemo{
+public class Q37{
 	
 	static public void main(String args[]) {
 		
