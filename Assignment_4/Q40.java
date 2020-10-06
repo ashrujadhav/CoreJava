@@ -17,7 +17,7 @@ class Student{
 	}
 }
 
-public class StudentDemo{
+public class Q40{
 
 		public static void main(String args[]) {
 			
