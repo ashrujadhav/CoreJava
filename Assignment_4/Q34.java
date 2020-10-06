@@ -27,7 +27,7 @@ class Circle{
 	}
 } 
 
-public class Circle_Demo{
+public class Q34{
 	
 	public static void main(String[] args) {
 		
