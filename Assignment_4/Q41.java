@@ -35,7 +35,7 @@ class This_Construct{
 	}
 }
 
-public class This_Construct_Demo{
+public class Q41{
 	
 	public static void main(String args[]) 
         {
