@@ -42,7 +42,7 @@ class Floor{
 	
 }
 
-public class Tile_Demo{
+public class Q43{
 	
 	public static void main(String args[]) {
 		
