@@ -70,7 +70,7 @@ class Demo extends TwoBHK{
 	}
 }
 
-public class FlatDemo{
+public class Q43{
 	
 	public static void main(String args[]) {
 		
