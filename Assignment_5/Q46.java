@@ -32,7 +32,7 @@ class Dog extends Animal{
 	}
 }
 
-public class Downcasting_Instanceof{
+public class Q46{
 	
 	public static void main(String args[]) {
 		
