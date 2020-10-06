@@ -1,7 +1,7 @@
 /* 28.	Initialize one String type of array and print the elements using for each loop.*/
 import java.util.*;
 
-public class StringArray{
+public class Q28{
 
 	public static void main(String args[]) {
 
