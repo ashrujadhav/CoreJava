@@ -1,6 +1,6 @@
 /*52.	Input name of a person and count how many vowels it contains. 
  Use String class functions.  */
-public class CountVowels { 
+public class Q52 { 
          
    
     static boolean isVowel(char ch) 
