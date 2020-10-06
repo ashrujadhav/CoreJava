@@ -33,7 +33,7 @@ class Product{
 	}
 }
 
-public class ProductDemo{
+public class Q39{
 	
 	public static void main(String args[]) {
 		
