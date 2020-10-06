@@ -26,7 +26,7 @@ class Student{
 	}
 }
 
-public class CountStd{
+public class Q32{
 	
 	public static void main(String args[]) {
 		
