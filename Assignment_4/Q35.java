@@ -46,7 +46,7 @@ class MathOperation{
 
 
 
-public class Math_Demo {
+public class Q35 {
 
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
