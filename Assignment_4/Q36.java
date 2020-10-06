@@ -37,7 +37,7 @@ class MathOperation{
     }
 }
 
-class Math_Overloading{
+class Q36{
     public static void main(String argc []){
 
         MathOperation.multiply(11,22);
