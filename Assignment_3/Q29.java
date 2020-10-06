@@ -1,7 +1,7 @@
 /*29.	Write a program to print the total number of one-D arrays in a two-D array and the number of elements in every
  one-D array present in the two-D arrays.*/
 
-public class PrintEle{
+public class Q29{
 
 	public static void main(String args[]) {
 
