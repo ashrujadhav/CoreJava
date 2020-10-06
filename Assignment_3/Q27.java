@@ -1,6 +1,6 @@
 
 /* 27.	Write a program to fine the smallest and greatest number present in the
- array of integer type.*/class Smallest_Greatest{
+ array of integer type.*/class Q27{
 	
 	public static void main(String args[]){
 		int num[] = {22,45,78,99,10};
