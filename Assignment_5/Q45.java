@@ -87,7 +87,7 @@ class SchoolStudent extends Student{
 	}
 }
 
-public class StudentDemo{
+public class Q45{
 	
 	public static void main(String args[]) {
 		
