@@ -56,7 +56,7 @@ class Product extends Abstract implements Taxable{
 	} 
 }
 
-public class InterfaceTaxable{
+public class Q49{
 	
 	public static void main(String args[]) {
 		
