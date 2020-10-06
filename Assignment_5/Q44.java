@@ -54,7 +54,7 @@ class PartTimeFaculty extends Faculty{
 	}
 }
 
-public class FacultyDemo{
+public class Q44{
 	
 	public static void main(String args[]) {
 		
