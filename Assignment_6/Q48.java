@@ -49,7 +49,7 @@ class Circle extends Processor {
 }
 
 
-public class AbstractClassDemo{
+public class Q47{
 	
 	public static void main(String args[]) {
 	
